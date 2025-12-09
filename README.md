@@ -1,4 +1,4 @@
-#Supply Chain Analytics & Forecasting Project — Python, Pandas, Plotly, Scikit-Learn
+Supply Chain Analytics & Forecasting Project — Python, Pandas, Plotly, Scikit-Learn
 • Analyzed a multi-variable supply chain dataset (24 features across products, logistics, manufacturing, and transportation) to identify operational inefficiencies and cost drivers.
 • Cleaned, transformed, and engineered features using Python; standardized categorical variables, corrected schema, removed duplicates, and prepared modeling-ready datasets.
 • Performed KPI-driven EDA using correlation matrices, pairplots, and segmented group analysis (routes, transportation modes, product categories, customer demographics).
